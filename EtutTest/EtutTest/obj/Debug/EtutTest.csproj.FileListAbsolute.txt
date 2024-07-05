@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\bin\Debug\EtutTest.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\bin\Debug\EtutTest.exe
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\bin\Debug\EtutTest.pdb
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.exe
+C:\Users\iskit\Desktop\Udemy_Project\EtutTest\EtutTest\obj\Debug\EtutTest.pdb
